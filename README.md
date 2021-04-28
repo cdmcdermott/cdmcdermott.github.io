@@ -1,1 +1,0 @@
-# cdmcdermott.github.io

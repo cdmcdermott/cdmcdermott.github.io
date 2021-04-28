@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://cdmcdermott.com/sitemap.xml
