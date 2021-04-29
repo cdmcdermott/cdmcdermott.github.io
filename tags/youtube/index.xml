@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>youtube on aRtFuL eNiGmA</title>
+    <link>https://cdmcdermott.github.io/tags/youtube/</link>
+    <description>Recent content in youtube on aRtFuL eNiGmA</description>
+    <image>
+      <url>https://cdmcdermott.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://cdmcdermott.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 22 Jun 2020 11:30:03 +0000</lastBuildDate><atom:link href="https://cdmcdermott.github.io/tags/youtube/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DF Tube: How to watch YouTube distraction free</title>
+      <link>https://cdmcdermott.github.io/articles/dftube-how-to-watch-youtube-distraction-free/</link>
+      <pubDate>Mon, 22 Jun 2020 11:30:03 +0000</pubDate>
+      
+      <guid>https://cdmcdermott.github.io/articles/dftube-how-to-watch-youtube-distraction-free/</guid>
+      <description>YouTube is awesome. Who doesn’t like to watch cats and babies doing funny things, or learn how to replace a door catch on your dishwater to avoid an expensive plumbers bill. But, if you impulsively watch more and more videos and compulsively log in more frequently, even when you had planned to do something more productive, you may be addicted. In this article I will share some tips on how to avoid the black hole of YouTube using, amongst other things, DF Tube a plugin for Firefox.</description>
+    </item>
+    
+  </channel>
+</rss>
