@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>password on aRtFuL eNiGmA</title>
+    <link>https://cdmcdermott.github.io/tags/password/</link>
+    <description>Recent content in password on aRtFuL eNiGmA</description>
+    <image>
+      <url>https://cdmcdermott.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://cdmcdermott.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 09 Jul 2020 11:30:03 +0000</lastBuildDate><atom:link href="https://cdmcdermott.github.io/tags/password/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to create and manage strong passwords</title>
+      <link>https://cdmcdermott.github.io/articles/how-to-create-and-manage-strong-passwords/</link>
+      <pubDate>Thu, 09 Jul 2020 11:30:03 +0000</pubDate>
+      
+      <guid>https://cdmcdermott.github.io/articles/how-to-create-and-manage-strong-passwords/</guid>
+      <description>We all know we should use secure passwords, but, how do you balance the necessity of highly secure passwords with the ability to easily recall them when needed? Depending on which study you read, the average person has 27 online accounts and between 70-80 passwords to remember. As a result, many people choose the path of least resistance (I’m working on a future post about this) so either use simple, easy to remember (and guess) passwords, or use the same password everywhere.</description>
+    </item>
+    
+  </channel>
+</rss>

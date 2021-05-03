@@ -21,6 +21,15 @@ Ideally, you should choose a web browser which blocks all trackers by default, o
     </item>
     
     <item>
+      <title>Multi-factor Authentication 2FA and Biometrics</title>
+      <link>https://cdmcdermott.github.io/articles/multi-factor-authentication-2fa-and-biometrics/</link>
+      <pubDate>Sun, 02 Aug 2020 11:30:03 +0000</pubDate>
+      
+      <guid>https://cdmcdermott.github.io/articles/multi-factor-authentication-2fa-and-biometrics/</guid>
+      <description>In a recent article, How to create and manage strong passwords, I demonstrated how using mnemonics to remember complex passwords or adopting a bitwarden can be used to improve your digital security, and make you a much more difficult target for potential hackers. It is, however, possible to protect your online digital interactions even further, by using Multi-factor authentication (MFA) to add extra layers of security when logging into systems.</description>
+    </item>
+    
+    <item>
       <title>Antitrust: Tech Giants face Congress</title>
       <link>https://cdmcdermott.github.io/articles/antitrust-tech-giants-face-congress/</link>
       <pubDate>Thu, 30 Jul 2020 11:30:03 +0000</pubDate>
@@ -28,6 +37,15 @@ Ideally, you should choose a web browser which blocks all trackers by default, o
       <guid>https://cdmcdermott.github.io/articles/antitrust-tech-giants-face-congress/</guid>
       <description>Tech giants: Apple, Google, Facebook and Amazon were questioned by a US Congress subcommittee yesterday on issues relating to antitrust, and the suggestion they hold too much power. For nearly six hours, congress confronted the CEOs about whether they wielded their market power to eliminate competitors and amass huge data on their customers. Indeed, congressman David Cicilline summarised the hearing by suggesting:
  Simply put, they have too much power. The firms have monopoly power, some need to be broken up, all need to be properly regulated and held accountable</description>
+    </item>
+    
+    <item>
+      <title>How to create and manage strong passwords</title>
+      <link>https://cdmcdermott.github.io/articles/how-to-create-and-manage-strong-passwords/</link>
+      <pubDate>Thu, 09 Jul 2020 11:30:03 +0000</pubDate>
+      
+      <guid>https://cdmcdermott.github.io/articles/how-to-create-and-manage-strong-passwords/</guid>
+      <description>We all know we should use secure passwords, but, how do you balance the necessity of highly secure passwords with the ability to easily recall them when needed? Depending on which study you read, the average person has 27 online accounts and between 70-80 passwords to remember. As a result, many people choose the path of least resistance (I’m working on a future post about this) so either use simple, easy to remember (and guess) passwords, or use the same password everywhere.</description>
     </item>
     
     <item>

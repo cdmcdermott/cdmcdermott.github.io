@@ -21,6 +21,15 @@ Ideally, you should choose a web browser which blocks all trackers by default, o
     </item>
     
     <item>
+      <title>Multi-factor Authentication 2FA and Biometrics</title>
+      <link>https://cdmcdermott.github.io/articles/multi-factor-authentication-2fa-and-biometrics/</link>
+      <pubDate>Sun, 02 Aug 2020 11:30:03 +0000</pubDate>
+      
+      <guid>https://cdmcdermott.github.io/articles/multi-factor-authentication-2fa-and-biometrics/</guid>
+      <description>In a recent article, How to create and manage strong passwords, I demonstrated how using mnemonics to remember complex passwords or adopting a bitwarden can be used to improve your digital security, and make you a much more difficult target for potential hackers. It is, however, possible to protect your online digital interactions even further, by using Multi-factor authentication (MFA) to add extra layers of security when logging into systems.</description>
+    </item>
+    
+    <item>
       <title>Antitrust: Tech Giants face Congress</title>
       <link>https://cdmcdermott.github.io/articles/antitrust-tech-giants-face-congress/</link>
       <pubDate>Thu, 30 Jul 2020 11:30:03 +0000</pubDate>
@@ -31,6 +40,15 @@ Ideally, you should choose a web browser which blocks all trackers by default, o
     </item>
     
     <item>
+      <title>How to create and manage strong passwords</title>
+      <link>https://cdmcdermott.github.io/articles/how-to-create-and-manage-strong-passwords/</link>
+      <pubDate>Thu, 09 Jul 2020 11:30:03 +0000</pubDate>
+      
+      <guid>https://cdmcdermott.github.io/articles/how-to-create-and-manage-strong-passwords/</guid>
+      <description>We all know we should use secure passwords, but, how do you balance the necessity of highly secure passwords with the ability to easily recall them when needed? Depending on which study you read, the average person has 27 online accounts and between 70-80 passwords to remember. As a result, many people choose the path of least resistance (I’m working on a future post about this) so either use simple, easy to remember (and guess) passwords, or use the same password everywhere.</description>
+    </item>
+    
+    <item>
       <title>MindF*ck Inside Cambridge Analytica&#39;s Plot</title>
       <link>https://cdmcdermott.github.io/articles/minfckinsidecambridgeanalyticasplottobreaktheworld/</link>
       <pubDate>Tue, 30 Jun 2020 22:31:54 +0100</pubDate>
@@ -38,15 +56,6 @@ Ideally, you should choose a web browser which blocks all trackers by default, o
       <guid>https://cdmcdermott.github.io/articles/minfckinsidecambridgeanalyticasplottobreaktheworld/</guid>
       <description>Introduction It seems an appropriate week to be talking about social media. Many advertisers and sponsors have suspended advertising on Facebook, and some big names have left twitter (they were banned to be fair) moving to it’s “anything goes” rival paler. What better week to share a review of Christopher Wylie’s book: Mindf*ck: Inside Cambridge Analytica’s Plot to Break the World.
 Last week as I sat down to write a review I came across a great video on YouTube by Dan White , who kindly offered to share his review with subscribers of my mailing list (join the list to hear everything first).</description>
-    </item>
-    
-    <item>
-      <title>Why Security Matters</title>
-      <link>https://cdmcdermott.github.io/articles/why-security-matters/</link>
-      <pubDate>Thu, 25 Jun 2020 11:30:03 +0000</pubDate>
-      
-      <guid>https://cdmcdermott.github.io/articles/why-security-matters/</guid>
-      <description>We all know (hopefully) we should take security seriously. Indeed, the frequency and impact of security threats continue to evolve, with new threats emerging almost daily. We also have to acknowledge that we live in a highly connected world using technology and the Internet daily to gather information from websites, collaborate on projects, connect remote employees to company networks, or utilise cloud platforms to do business. Each of the activities exposes us to some element of risk, therefore, it is fair to say that completely avoiding risk is probably impossible.</description>
     </item>
     
     <item>
@@ -104,6 +113,15 @@ There has been much debate and concern about the need and function of contact tr
       
       <guid>https://cdmcdermott.github.io/articles/does-the-perfect-tool-or-app-exits/</guid>
       <description>If you are like me the search to find the perfect tool or app is never ending. Deep down I know it doesn’t exist, yet I look, convincing myself that If i can just find that perfect tool I will be more productive and save a lot of time. I am also aware that hunting for better tools is a distraction technique, but still I search. I often use a quote attributed to Abraham Lincoln to justify my actions…</description>
+    </item>
+    
+    <item>
+      <title>Why Security Matters</title>
+      <link>https://cdmcdermott.github.io/articles/why-security-matters/</link>
+      <pubDate>Fri, 05 Jun 2020 11:30:03 +0000</pubDate>
+      
+      <guid>https://cdmcdermott.github.io/articles/why-security-matters/</guid>
+      <description>We all know (hopefully) we should take security seriously. Indeed, the frequency and impact of security threats continue to evolve, with new threats emerging almost daily. We also have to acknowledge that we live in a highly connected world using technology and the Internet daily to gather information from websites, collaborate on projects, connect remote employees to company networks, or utilise cloud platforms to do business. Each of the activities exposes us to some element of risk, therefore, it is fair to say that completely avoiding risk is probably impossible.</description>
     </item>
     
     <item>

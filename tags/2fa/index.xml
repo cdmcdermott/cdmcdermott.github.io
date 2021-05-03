@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2fa on aRtFuL eNiGmA</title>
+    <link>https://cdmcdermott.github.io/tags/2fa/</link>
+    <description>Recent content in 2fa on aRtFuL eNiGmA</description>
+    <image>
+      <url>https://cdmcdermott.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://cdmcdermott.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 02 Aug 2020 11:30:03 +0000</lastBuildDate><atom:link href="https://cdmcdermott.github.io/tags/2fa/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Multi-factor Authentication 2FA and Biometrics</title>
+      <link>https://cdmcdermott.github.io/articles/multi-factor-authentication-2fa-and-biometrics/</link>
+      <pubDate>Sun, 02 Aug 2020 11:30:03 +0000</pubDate>
+      
+      <guid>https://cdmcdermott.github.io/articles/multi-factor-authentication-2fa-and-biometrics/</guid>
+      <description>In a recent article, How to create and manage strong passwords, I demonstrated how using mnemonics to remember complex passwords or adopting a bitwarden can be used to improve your digital security, and make you a much more difficult target for potential hackers. It is, however, possible to protect your online digital interactions even further, by using Multi-factor authentication (MFA) to add extra layers of security when logging into systems.</description>
+    </item>
+    
+  </channel>
+</rss>

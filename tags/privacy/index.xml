@@ -21,6 +21,15 @@ Ideally, you should choose a web browser which blocks all trackers by default, o
     </item>
     
     <item>
+      <title>Multi-factor Authentication 2FA and Biometrics</title>
+      <link>https://cdmcdermott.github.io/articles/multi-factor-authentication-2fa-and-biometrics/</link>
+      <pubDate>Sun, 02 Aug 2020 11:30:03 +0000</pubDate>
+      
+      <guid>https://cdmcdermott.github.io/articles/multi-factor-authentication-2fa-and-biometrics/</guid>
+      <description>In a recent article, How to create and manage strong passwords, I demonstrated how using mnemonics to remember complex passwords or adopting a bitwarden can be used to improve your digital security, and make you a much more difficult target for potential hackers. It is, however, possible to protect your online digital interactions even further, by using Multi-factor authentication (MFA) to add extra layers of security when logging into systems.</description>
+    </item>
+    
+    <item>
       <title>Antitrust: Tech Giants face Congress</title>
       <link>https://cdmcdermott.github.io/articles/antitrust-tech-giants-face-congress/</link>
       <pubDate>Thu, 30 Jul 2020 11:30:03 +0000</pubDate>
