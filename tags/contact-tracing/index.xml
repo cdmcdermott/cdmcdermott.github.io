@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>contact tracing on aRtFuL eNiGmA</title>
-    <link>https://cdmcdermott.github.io/tags/contact-tracing/</link>
+    <link>https://cdmcdermott.com/tags/contact-tracing/</link>
     <description>Recent content in contact tracing on aRtFuL eNiGmA</description>
     <image>
-      <url>https://cdmcdermott.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://cdmcdermott.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://cdmcdermott.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://cdmcdermott.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 19 Jun 2020 11:30:03 +0000</lastBuildDate><atom:link href="https://cdmcdermott.github.io/tags/contact-tracing/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 19 Jun 2020 11:30:03 +0000</lastBuildDate><atom:link href="https://cdmcdermott.com/tags/contact-tracing/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The debate about Contact Tracing Apps</title>
-      <link>https://cdmcdermott.github.io/articles/the-debate-about-contact-tracing-apps/</link>
+      <link>https://cdmcdermott.com/articles/the-debate-about-contact-tracing-apps/</link>
       <pubDate>Fri, 19 Jun 2020 11:30:03 +0000</pubDate>
       
-      <guid>https://cdmcdermott.github.io/articles/the-debate-about-contact-tracing-apps/</guid>
+      <guid>https://cdmcdermott.com/articles/the-debate-about-contact-tracing-apps/</guid>
       <description>It appears the UK government have decided to scrap their NHS contact tracing app in favour of a model based on Google and Apple’s technology. In doing so, it joins a host of other countries (including Germany, Italy and Denmark) to favour a decentralised system developed by the Silicon Valley giants, rather than a centralised model developed locally. A step in the right direction ?
 There has been much debate and concern about the need and function of contact tracing apps to fight the current global pandemic.</description>
     </item>

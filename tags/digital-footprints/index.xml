@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>digital footprints on aRtFuL eNiGmA</title>
-    <link>https://cdmcdermott.github.io/tags/digital-footprints/</link>
+    <link>https://cdmcdermott.com/tags/digital-footprints/</link>
     <description>Recent content in digital footprints on aRtFuL eNiGmA</description>
     <image>
-      <url>https://cdmcdermott.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://cdmcdermott.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://cdmcdermott.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://cdmcdermott.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 20 Mar 2021 11:30:03 +0000</lastBuildDate><atom:link href="https://cdmcdermott.github.io/tags/digital-footprints/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 20 Mar 2021 11:30:03 +0000</lastBuildDate><atom:link href="https://cdmcdermott.com/tags/digital-footprints/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Reduce your Digital Footprints to improve Privacy</title>
-      <link>https://cdmcdermott.github.io/articles/reduce-your-digital-footprints/</link>
+      <link>https://cdmcdermott.com/articles/reduce-your-digital-footprints/</link>
       <pubDate>Sat, 20 Mar 2021 11:30:03 +0000</pubDate>
       
-      <guid>https://cdmcdermott.github.io/articles/reduce-your-digital-footprints/</guid>
+      <guid>https://cdmcdermott.com/articles/reduce-your-digital-footprints/</guid>
       <description>This week I have been teaching one of my favourite topics Social Engineering. If you are not familiar with the topic, social engineering is the act of abusing human psychology to take advantage of a persons natural tendencies and emotional reactions in order to trick then into making security mistakes or giving away sensitive information.
 As part of the series we also explored open source intelligence (OSINT) which is a method often used by hackers to collect information from public sources in order to build a detailed profile about a victim.</description>
     </item>
     
     <item>
       <title>Why Privacy Matters</title>
-      <link>https://cdmcdermott.github.io/articles/why-privacy-matters/</link>
+      <link>https://cdmcdermott.com/articles/why-privacy-matters/</link>
       <pubDate>Mon, 25 May 2020 11:30:03 +0000</pubDate>
       
-      <guid>https://cdmcdermott.github.io/articles/why-privacy-matters/</guid>
+      <guid>https://cdmcdermott.com/articles/why-privacy-matters/</guid>
       <description>Have you ever stopped to think about the technology you use, or the online services you engage with on a regular basis ? Chances are you use some form of technology or internet service on a daily basis. If so, have you considered the increasing trust we are required to place in technology or companies to manage our daily interactions.
 Whether it’s emails, holiday photos on social media, on-line shopping, internet banking or even health details; we are generating more personal data than ever before.</description>
     </item>

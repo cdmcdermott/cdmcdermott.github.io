@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>facial recognition on aRtFuL eNiGmA</title>
-    <link>https://cdmcdermott.github.io/tags/facial-recognition/</link>
+    <link>https://cdmcdermott.com/tags/facial-recognition/</link>
     <description>Recent content in facial recognition on aRtFuL eNiGmA</description>
     <image>
-      <url>https://cdmcdermott.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://cdmcdermott.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://cdmcdermott.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://cdmcdermott.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 13 Jun 2020 11:30:03 +0000</lastBuildDate><atom:link href="https://cdmcdermott.github.io/tags/facial-recognition/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 13 Jun 2020 11:30:03 +0000</lastBuildDate><atom:link href="https://cdmcdermott.com/tags/facial-recognition/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Rethinking Facial Recognition</title>
-      <link>https://cdmcdermott.github.io/articles/rethinking-facial-recognition/</link>
+      <link>https://cdmcdermott.com/articles/rethinking-facial-recognition/</link>
       <pubDate>Sat, 13 Jun 2020 11:30:03 +0000</pubDate>
       
-      <guid>https://cdmcdermott.github.io/articles/rethinking-facial-recognition/</guid>
+      <guid>https://cdmcdermott.com/articles/rethinking-facial-recognition/</guid>
       <description>On the back of the horrific treatment of George Floyd a call for further measures to monitor police actions and increase accountability would not be unexpected. However, interestingly IBM, a leader in the provision of facial identification as a service, appear to be considering a rethink about how the technology should be used. CEO Arvind Krishna voiced support for a new bill aiming to reduce police violence, but called for a national dialogue about how/if the technology should be used.</description>
     </item>
     

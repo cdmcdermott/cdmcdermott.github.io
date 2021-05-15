@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>biometric on aRtFuL eNiGmA</title>
-    <link>https://cdmcdermott.github.io/tags/biometric/</link>
+    <link>https://cdmcdermott.com/tags/biometric/</link>
     <description>Recent content in biometric on aRtFuL eNiGmA</description>
     <image>
-      <url>https://cdmcdermott.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://cdmcdermott.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://cdmcdermott.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://cdmcdermott.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 02 Aug 2020 11:30:03 +0000</lastBuildDate><atom:link href="https://cdmcdermott.github.io/tags/biometric/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 02 Aug 2020 11:30:03 +0000</lastBuildDate><atom:link href="https://cdmcdermott.com/tags/biometric/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Multi-factor Authentication 2FA and Biometrics</title>
-      <link>https://cdmcdermott.github.io/articles/multi-factor-authentication-2fa-and-biometrics/</link>
+      <link>https://cdmcdermott.com/articles/multi-factor-authentication-2fa-and-biometrics/</link>
       <pubDate>Sun, 02 Aug 2020 11:30:03 +0000</pubDate>
       
-      <guid>https://cdmcdermott.github.io/articles/multi-factor-authentication-2fa-and-biometrics/</guid>
+      <guid>https://cdmcdermott.com/articles/multi-factor-authentication-2fa-and-biometrics/</guid>
       <description>In a recent article, How to create and manage strong passwords, I demonstrated how using mnemonics to remember complex passwords or adopting a bitwarden can be used to improve your digital security, and make you a much more difficult target for potential hackers. It is, however, possible to protect your online digital interactions even further, by using Multi-factor authentication (MFA) to add extra layers of security when logging into systems.</description>
     </item>
     
