@@ -9,7 +9,17 @@
       <link>https://cdmcdermott.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 12 May 2021 11:30:03 +0000</lastBuildDate><atom:link href="https://cdmcdermott.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 15 Jun 2021 11:30:03 +0000</lastBuildDate><atom:link href="https://cdmcdermott.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Is it safe to use a browser&#39;s built-in password manager</title>
+      <link>https://cdmcdermott.com/articles/browsersbuiltinpasswordmanager/</link>
+      <pubDate>Tue, 15 Jun 2021 11:30:03 +0000</pubDate>
+      
+      <guid>https://cdmcdermott.com/articles/browsersbuiltinpasswordmanager/</guid>
+      <description>I read an interesting article about Password Managers written by Tavis Ormandy, a well known researcher working on Google’s Zero-Day project. The article considered whether it is better to use the intrinsic password manager already built-in to your web browser (most web browsers now offer to save your passwords) or to use an extrinsic third-party app like Bitwarden .
+Let&amp;rsquo;s review the arguments he presented in his article and determine if it is safe to use a browser&amp;rsquo;s built-in password manager.</description>
+    </item>
+    
     <item>
       <title>Teens, Tech and Mental Health</title>
       <link>https://cdmcdermott.com/articles/teenstechandmentalhealth/</link>
@@ -42,11 +52,11 @@ As part of the series we also explored open source intelligence (OSINT) which is
     </item>
     
     <item>
-      <title>Best Web Browser for Privacy in 2020</title>
-      <link>https://cdmcdermott.com/articles/best-web-browser-for-privacy-in-2020/</link>
+      <title>Best Web Browser for Privacy in 2021</title>
+      <link>https://cdmcdermott.com/articles/best-web-browser-for-privacy-in-2021/</link>
       <pubDate>Sun, 09 Aug 2020 13:21:37 +0100</pubDate>
       
-      <guid>https://cdmcdermott.com/articles/best-web-browser-for-privacy-in-2020/</guid>
+      <guid>https://cdmcdermott.com/articles/best-web-browser-for-privacy-in-2021/</guid>
       <description>Welcome A web browser can collect a lot of information about you. As the tool most used to browse the Internet, they can track the sites you visit, how long you spent on them, which links you clicked on or purchases you made, and much more. Choosing the right web browser is, therefore, an important consideration when trying to improve your online privacy.
 Ideally, you should choose a web browser which blocks all trackers by default, or at least, allows you to easily configure it do so.</description>
     </item>
