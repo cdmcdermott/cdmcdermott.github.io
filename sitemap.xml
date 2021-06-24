@@ -2,16 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://cdmcdermott.com/tags/amazon/</loc>
+    <lastmod>2021-06-23T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>https://cdmcdermott.com/articles/amazonsidewalkprivacyconcerns/</loc>
+    <lastmod>2021-06-23T11:30:03+00:00</lastmod>
+  </url><url>
     <loc>https://cdmcdermott.com/</loc>
-    <lastmod>2021-06-15T11:30:03+00:00</lastmod>
+    <lastmod>2021-06-23T11:30:03+00:00</lastmod>
   </url><url>
     <loc>https://cdmcdermott.com/articles/</loc>
-    <lastmod>2021-06-15T11:30:03+00:00</lastmod>
+    <lastmod>2021-06-23T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>https://cdmcdermott.com/tags/bitwarden/</loc>
-    <lastmod>2021-06-15T11:30:03+00:00</lastmod>
+    <loc>https://cdmcdermott.com/tags/big-tech/</loc>
+    <lastmod>2021-06-23T11:30:03+00:00</lastmod>
   </url><url>
     <loc>https://cdmcdermott.com/categories/</loc>
+    <lastmod>2021-06-23T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>https://cdmcdermott.com/tags/privacy/</loc>
+    <lastmod>2021-06-23T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>https://cdmcdermott.com/categories/privacy/</loc>
+    <lastmod>2021-06-23T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>https://cdmcdermott.com/categories/protect/</loc>
+    <lastmod>2021-06-23T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>https://cdmcdermott.com/categories/security/</loc>
+    <lastmod>2021-06-23T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>https://cdmcdermott.com/tags/</loc>
+    <lastmod>2021-06-23T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>https://cdmcdermott.com/tags/bitwarden/</loc>
     <lastmod>2021-06-15T11:30:03+00:00</lastmod>
   </url><url>
     <loc>https://cdmcdermott.com/articles/browsersbuiltinpasswordmanager/</loc>
@@ -20,20 +44,8 @@
     <loc>https://cdmcdermott.com/tags/password/</loc>
     <lastmod>2021-06-15T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>https://cdmcdermott.com/categories/protect/</loc>
-    <lastmod>2021-06-15T11:30:03+00:00</lastmod>
-  </url><url>
-    <loc>https://cdmcdermott.com/categories/security/</loc>
-    <lastmod>2021-06-15T11:30:03+00:00</lastmod>
-  </url><url>
-    <loc>https://cdmcdermott.com/tags/</loc>
-    <lastmod>2021-06-15T11:30:03+00:00</lastmod>
-  </url><url>
     <loc>https://cdmcdermott.com/tags/web-browser/</loc>
     <lastmod>2021-06-15T11:30:03+00:00</lastmod>
-  </url><url>
-    <loc>https://cdmcdermott.com/tags/big-tech/</loc>
-    <lastmod>2021-05-12T11:30:03+00:00</lastmod>
   </url><url>
     <loc>https://cdmcdermott.com/tags/mental-health/</loc>
     <lastmod>2021-05-12T11:30:03+00:00</lastmod>
@@ -86,12 +98,6 @@
     <loc>https://cdmcdermott.com/tags/irdium/</loc>
     <lastmod>2020-08-09T13:21:37+01:00</lastmod>
   </url><url>
-    <loc>https://cdmcdermott.com/tags/privacy/</loc>
-    <lastmod>2020-08-09T13:21:37+01:00</lastmod>
-  </url><url>
-    <loc>https://cdmcdermott.com/categories/privacy/</loc>
-    <lastmod>2020-08-09T13:21:37+01:00</lastmod>
-  </url><url>
     <loc>https://cdmcdermott.com/tags/tor/</loc>
     <lastmod>2020-08-09T13:21:37+01:00</lastmod>
   </url><url>
@@ -103,9 +109,6 @@
   </url><url>
     <loc>https://cdmcdermott.com/articles/multi-factor-authentication-2fa-and-biometrics/</loc>
     <lastmod>2020-08-02T11:30:03+00:00</lastmod>
-  </url><url>
-    <loc>https://cdmcdermott.com/tags/amazon/</loc>
-    <lastmod>2020-07-30T11:30:03+00:00</lastmod>
   </url><url>
     <loc>https://cdmcdermott.com/articles/antitrust-tech-giants-face-congress/</loc>
     <lastmod>2020-07-30T11:30:03+00:00</lastmod>

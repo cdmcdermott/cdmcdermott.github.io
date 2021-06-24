@@ -9,7 +9,34 @@
       <link>https://cdmcdermott.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 15 Jun 2021 11:30:03 +0000</lastBuildDate><atom:link href="https://cdmcdermott.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 23 Jun 2021 11:30:03 +0000</lastBuildDate><atom:link href="https://cdmcdermott.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>amazon</title>
+      <link>https://cdmcdermott.com/tags/amazon/</link>
+      <pubDate>Wed, 23 Jun 2021 11:30:03 +0000</pubDate>
+      
+      <guid>https://cdmcdermott.com/tags/amazon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>big tech</title>
+      <link>https://cdmcdermott.com/tags/big-tech/</link>
+      <pubDate>Wed, 23 Jun 2021 11:30:03 +0000</pubDate>
+      
+      <guid>https://cdmcdermott.com/tags/big-tech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>privacy</title>
+      <link>https://cdmcdermott.com/tags/privacy/</link>
+      <pubDate>Wed, 23 Jun 2021 11:30:03 +0000</pubDate>
+      
+      <guid>https://cdmcdermott.com/tags/privacy/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>bitwarden</title>
       <link>https://cdmcdermott.com/tags/bitwarden/</link>
@@ -34,15 +61,6 @@
       <pubDate>Tue, 15 Jun 2021 11:30:03 +0000</pubDate>
       
       <guid>https://cdmcdermott.com/tags/web-browser/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>big tech</title>
-      <link>https://cdmcdermott.com/tags/big-tech/</link>
-      <pubDate>Wed, 12 May 2021 11:30:03 +0000</pubDate>
-      
-      <guid>https://cdmcdermott.com/tags/big-tech/</guid>
       <description></description>
     </item>
     
@@ -146,15 +164,6 @@
     </item>
     
     <item>
-      <title>privacy</title>
-      <link>https://cdmcdermott.com/tags/privacy/</link>
-      <pubDate>Sun, 09 Aug 2020 13:21:37 +0100</pubDate>
-      
-      <guid>https://cdmcdermott.com/tags/privacy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>tor</title>
       <link>https://cdmcdermott.com/tags/tor/</link>
       <pubDate>Sun, 09 Aug 2020 13:21:37 +0100</pubDate>
@@ -178,15 +187,6 @@
       <pubDate>Sun, 02 Aug 2020 11:30:03 +0000</pubDate>
       
       <guid>https://cdmcdermott.com/tags/biometric/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>amazon</title>
-      <link>https://cdmcdermott.com/tags/amazon/</link>
-      <pubDate>Thu, 30 Jul 2020 11:30:03 +0000</pubDate>
-      
-      <guid>https://cdmcdermott.com/tags/amazon/</guid>
       <description></description>
     </item>
     
