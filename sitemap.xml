@@ -2,16 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://cdmcdermott.com/articles/social-media-fingerprint/</loc>
-    <lastmod>2021-10-26T18:43:03+01:00</lastmod>
-  </url><url>
     <loc>https://cdmcdermott.com/</loc>
-    <lastmod>2021-10-26T18:43:03+01:00</lastmod>
+    <lastmod>2021-10-26T19:43:03+01:00</lastmod>
   </url><url>
     <loc>https://cdmcdermott.com/articles/</loc>
-    <lastmod>2021-10-26T18:43:03+01:00</lastmod>
+    <lastmod>2021-10-26T19:43:03+01:00</lastmod>
   </url><url>
     <loc>https://cdmcdermott.com/categories/</loc>
+    <lastmod>2021-10-26T19:43:03+01:00</lastmod>
+  </url><url>
+    <loc>https://cdmcdermott.com/categories/protect/</loc>
+    <lastmod>2021-10-26T19:43:03+01:00</lastmod>
+  </url><url>
+    <loc>https://cdmcdermott.com/tags/security/</loc>
+    <lastmod>2021-10-26T19:43:03+01:00</lastmod>
+  </url><url>
+    <loc>https://cdmcdermott.com/categories/security/</loc>
+    <lastmod>2021-10-26T19:43:03+01:00</lastmod>
+  </url><url>
+    <loc>https://cdmcdermott.com/tags/social-engineering/</loc>
+    <lastmod>2021-10-26T19:43:03+01:00</lastmod>
+  </url><url>
+    <loc>https://cdmcdermott.com/tags/social-media/</loc>
+    <lastmod>2021-10-26T19:43:03+01:00</lastmod>
+  </url><url>
+    <loc>https://cdmcdermott.com/tags/</loc>
+    <lastmod>2021-10-26T19:43:03+01:00</lastmod>
+  </url><url>
+    <loc>https://cdmcdermott.com/articles/the-psychology-of-attack-and-defense/</loc>
+    <lastmod>2021-10-26T19:43:03+01:00</lastmod>
+  </url><url>
+    <loc>https://cdmcdermott.com/articles/social-media-fingerprint/</loc>
     <lastmod>2021-10-26T18:43:03+01:00</lastmod>
   </url><url>
     <loc>https://cdmcdermott.com/tags/digital-footprints/</loc>
@@ -23,15 +44,6 @@
     <loc>https://cdmcdermott.com/categories/privacy/</loc>
     <lastmod>2021-10-26T18:43:03+01:00</lastmod>
   </url><url>
-    <loc>https://cdmcdermott.com/categories/protect/</loc>
-    <lastmod>2021-10-26T18:43:03+01:00</lastmod>
-  </url><url>
-    <loc>https://cdmcdermott.com/tags/social-media/</loc>
-    <lastmod>2021-10-26T18:43:03+01:00</lastmod>
-  </url><url>
-    <loc>https://cdmcdermott.com/tags/</loc>
-    <lastmod>2021-10-26T18:43:03+01:00</lastmod>
-  </url><url>
     <loc>https://cdmcdermott.com/tags/amazon/</loc>
     <lastmod>2021-06-23T11:30:03+00:00</lastmod>
   </url><url>
@@ -39,9 +51,6 @@
     <lastmod>2021-06-23T11:30:03+00:00</lastmod>
   </url><url>
     <loc>https://cdmcdermott.com/tags/big-tech/</loc>
-    <lastmod>2021-06-23T11:30:03+00:00</lastmod>
-  </url><url>
-    <loc>https://cdmcdermott.com/categories/security/</loc>
     <lastmod>2021-06-23T11:30:03+00:00</lastmod>
   </url><url>
     <loc>https://cdmcdermott.com/tags/bitwarden/</loc>
@@ -84,9 +93,6 @@
     <lastmod>2021-03-20T11:30:03+00:00</lastmod>
   </url><url>
     <loc>https://cdmcdermott.com/articles/reduce-your-digital-footprints/</loc>
-    <lastmod>2021-03-20T11:30:03+00:00</lastmod>
-  </url><url>
-    <loc>https://cdmcdermott.com/tags/social-engineering/</loc>
     <lastmod>2021-03-20T11:30:03+00:00</lastmod>
   </url><url>
     <loc>https://cdmcdermott.com/articles/best-web-browser-for-privacy-in-2021/</loc>
@@ -175,9 +181,6 @@
   </url><url>
     <loc>https://cdmcdermott.com/tags/tool/</loc>
     <lastmod>2020-06-09T11:30:03+00:00</lastmod>
-  </url><url>
-    <loc>https://cdmcdermott.com/tags/security/</loc>
-    <lastmod>2020-06-05T11:30:03+00:00</lastmod>
   </url><url>
     <loc>https://cdmcdermott.com/tags/threats/</loc>
     <lastmod>2020-06-05T11:30:03+00:00</lastmod>

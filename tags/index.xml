@@ -9,7 +9,34 @@
       <link>https://cdmcdermott.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 26 Oct 2021 18:43:03 +0100</lastBuildDate><atom:link href="https://cdmcdermott.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 26 Oct 2021 19:43:03 +0100</lastBuildDate><atom:link href="https://cdmcdermott.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>security</title>
+      <link>https://cdmcdermott.com/tags/security/</link>
+      <pubDate>Tue, 26 Oct 2021 19:43:03 +0100</pubDate>
+      
+      <guid>https://cdmcdermott.com/tags/security/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>social engineering</title>
+      <link>https://cdmcdermott.com/tags/social-engineering/</link>
+      <pubDate>Tue, 26 Oct 2021 19:43:03 +0100</pubDate>
+      
+      <guid>https://cdmcdermott.com/tags/social-engineering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>social media</title>
+      <link>https://cdmcdermott.com/tags/social-media/</link>
+      <pubDate>Tue, 26 Oct 2021 19:43:03 +0100</pubDate>
+      
+      <guid>https://cdmcdermott.com/tags/social-media/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>digital footprints</title>
       <link>https://cdmcdermott.com/tags/digital-footprints/</link>
@@ -25,15 +52,6 @@
       <pubDate>Tue, 26 Oct 2021 18:43:03 +0100</pubDate>
       
       <guid>https://cdmcdermott.com/tags/privacy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>social media</title>
-      <link>https://cdmcdermott.com/tags/social-media/</link>
-      <pubDate>Tue, 26 Oct 2021 18:43:03 +0100</pubDate>
-      
-      <guid>https://cdmcdermott.com/tags/social-media/</guid>
       <description></description>
     </item>
     
@@ -124,15 +142,6 @@
       <pubDate>Sat, 20 Mar 2021 11:30:03 +0000</pubDate>
       
       <guid>https://cdmcdermott.com/tags/osint/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>social engineering</title>
-      <link>https://cdmcdermott.com/tags/social-engineering/</link>
-      <pubDate>Sat, 20 Mar 2021 11:30:03 +0000</pubDate>
-      
-      <guid>https://cdmcdermott.com/tags/social-engineering/</guid>
       <description></description>
     </item>
     
@@ -295,15 +304,6 @@
       <pubDate>Tue, 09 Jun 2020 11:30:03 +0000</pubDate>
       
       <guid>https://cdmcdermott.com/tags/tool/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>security</title>
-      <link>https://cdmcdermott.com/tags/security/</link>
-      <pubDate>Fri, 05 Jun 2020 11:30:03 +0000</pubDate>
-      
-      <guid>https://cdmcdermott.com/tags/security/</guid>
       <description></description>
     </item>
     
