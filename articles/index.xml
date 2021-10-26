@@ -9,7 +9,16 @@
       <link>https://cdmcdermott.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 23 Jun 2021 11:30:03 +0000</lastBuildDate><atom:link href="https://cdmcdermott.com/articles/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 26 Oct 2021 18:43:03 +0100</lastBuildDate><atom:link href="https://cdmcdermott.com/articles/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Are you leaking your Social Media Fingerprint?</title>
+      <link>https://cdmcdermott.com/articles/social-media-fingerprint/</link>
+      <pubDate>Tue, 26 Oct 2021 18:43:03 +0100</pubDate>
+      
+      <guid>https://cdmcdermott.com/articles/social-media-fingerprint/</guid>
+      <description>There is a well known vulnerability in many web platforms that allows a potential attacker to determine the online platforms you are signed up to and are currently logged into. The exploit is pretty simple and actually easy to fix, however, most companies have not bothered to fix it because it does pose a serious risk to their platforms. It does pose a potential issue for our privacy so let&amp;rsquo;s briefly look at how we can protect ourself.</description>
+    </item>
+    
     <item>
       <title>Amazon Sidewalk: Is it safe or should I opt out</title>
       <link>https://cdmcdermott.com/articles/amazonsidewalkprivacyconcerns/</link>
