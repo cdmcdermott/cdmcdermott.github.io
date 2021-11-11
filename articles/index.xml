@@ -9,7 +9,17 @@
       <link>https://cdmcdermott.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 26 Oct 2021 19:43:03 +0100</lastBuildDate><atom:link href="https://cdmcdermott.com/articles/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 11 Nov 2021 19:43:03 +0100</lastBuildDate><atom:link href="https://cdmcdermott.com/articles/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to protect your privacy on Linux</title>
+      <link>https://cdmcdermott.com/articles/how_to_protect_your_privacy_on_linux/</link>
+      <pubDate>Thu, 11 Nov 2021 19:43:03 +0100</pubDate>
+      
+      <guid>https://cdmcdermott.com/articles/how_to_protect_your_privacy_on_linux/</guid>
+      <description>I am a long time user and advocate of Linux. I use it daily in my teaching, and have long expounded the many security and privacy benefits that come from using the operating systems.
+The problem is, for the average user, it can be daunting thought to make the switch. Despite, this I would encourage you to watch this video by Rob Braxman. In it, he fully explains the underlying structure of Linux, namely the mainline Kernel and GNU utilities built on top of it, leading to the many distributions to choose from.</description>
+    </item>
+    
     <item>
       <title>The Psychology of attack and defence</title>
       <link>https://cdmcdermott.com/articles/the-psychology-of-attack-and-defence/</link>
