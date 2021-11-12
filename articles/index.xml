@@ -11,11 +11,11 @@
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Thu, 11 Nov 2021 19:43:03 +0100</lastBuildDate><atom:link href="https://cdmcdermott.com/articles/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>How to protect your privacy on Linux</title>
-      <link>https://cdmcdermott.com/articles/how_to_protect_your_privacy_on_linux/</link>
+      <title>Switch to Linux for better privacy?</title>
+      <link>https://cdmcdermott.com/articles/switch_to_linux_for_better_privacy/</link>
       <pubDate>Thu, 11 Nov 2021 19:43:03 +0100</pubDate>
       
-      <guid>https://cdmcdermott.com/articles/how_to_protect_your_privacy_on_linux/</guid>
+      <guid>https://cdmcdermott.com/articles/switch_to_linux_for_better_privacy/</guid>
       <description>I am a long time user and advocate of Linux. I use it daily in my teaching, and have long expounded the many security and privacy benefits that come from using the operating systems.
 The problem is, for the average user, it can be daunting thought to make the switch. Despite, this I would encourage you to watch this video by Rob Braxman. In it, he fully explains the underlying structure of Linux, namely the mainline Kernel and GNU utilities built on top of it, leading to the many distributions to choose from.</description>
     </item>
