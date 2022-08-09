@@ -3,13 +3,25 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://cdmcdermott.com/</loc>
-    <lastmod>2021-11-11T19:43:03+01:00</lastmod>
+    <lastmod>2022-08-09T21:03:41+01:00</lastmod>
   </url><url>
     <loc>https://cdmcdermott.com/articles/</loc>
-    <lastmod>2021-11-11T19:43:03+01:00</lastmod>
+    <lastmod>2022-08-09T21:03:41+01:00</lastmod>
   </url><url>
     <loc>https://cdmcdermott.com/categories/</loc>
-    <lastmod>2021-11-11T19:43:03+01:00</lastmod>
+    <lastmod>2022-08-09T21:03:41+01:00</lastmod>
+  </url><url>
+    <loc>https://cdmcdermott.com/tags/security/</loc>
+    <lastmod>2022-08-09T21:03:41+01:00</lastmod>
+  </url><url>
+    <loc>https://cdmcdermott.com/categories/security/</loc>
+    <lastmod>2022-08-09T21:03:41+01:00</lastmod>
+  </url><url>
+    <loc>https://cdmcdermott.com/articles/securitymirage/</loc>
+    <lastmod>2022-08-09T21:03:41+01:00</lastmod>
+  </url><url>
+    <loc>https://cdmcdermott.com/tags/</loc>
+    <lastmod>2022-08-09T21:03:41+01:00</lastmod>
   </url><url>
     <loc>https://cdmcdermott.com/tags/linux/</loc>
     <lastmod>2021-11-11T19:43:03+01:00</lastmod>
@@ -25,15 +37,6 @@
   </url><url>
     <loc>https://cdmcdermott.com/articles/switch_to_linux_for_better_privacy/</loc>
     <lastmod>2021-11-11T19:43:03+01:00</lastmod>
-  </url><url>
-    <loc>https://cdmcdermott.com/tags/</loc>
-    <lastmod>2021-11-11T19:43:03+01:00</lastmod>
-  </url><url>
-    <loc>https://cdmcdermott.com/tags/security/</loc>
-    <lastmod>2021-10-26T19:43:03+01:00</lastmod>
-  </url><url>
-    <loc>https://cdmcdermott.com/categories/security/</loc>
-    <lastmod>2021-10-26T19:43:03+01:00</lastmod>
   </url><url>
     <loc>https://cdmcdermott.com/tags/social-engineering/</loc>
     <lastmod>2021-10-26T19:43:03+01:00</lastmod>

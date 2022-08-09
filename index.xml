@@ -9,7 +9,17 @@
       <link>https://cdmcdermott.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 11 Nov 2021 19:43:03 +0100</lastBuildDate><atom:link href="https://cdmcdermott.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 09 Aug 2022 21:03:41 +0100</lastBuildDate><atom:link href="https://cdmcdermott.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Security Mirage</title>
+      <link>https://cdmcdermott.com/articles/securitymirage/</link>
+      <pubDate>Tue, 09 Aug 2022 21:03:41 +0100</pubDate>
+      
+      <guid>https://cdmcdermott.com/articles/securitymirage/</guid>
+      <description>The feeling of security and the reality of security don&amp;rsquo;t always match, says computer-security expert Bruce Schneier.
+In his talk, he explains why we spend billions addressing news story risks, like the security theater now playing at your local airport, while neglecting more probable risks &amp;ndash; and how we can break this pattern</description>
+    </item>
+    
     <item>
       <title>Switch to Linux for better privacy?</title>
       <link>https://cdmcdermott.com/articles/switch_to_linux_for_better_privacy/</link>
